@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://lewd.pics/p/Nlws.png">
+  <img src="https://share.dmca.gripe/EEtZKgXdFbg8aots.png">
 </p>
 ‎<p align="center">Discord</p>
 
