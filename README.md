@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/287977955240706060.png">
+  <img src="https://lanyard-profile-readme.vercel.app/api/287977955240706060">
 </p>
 
 <!--START_SECTION:waka-->
